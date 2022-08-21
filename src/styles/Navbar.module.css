@@ -1,0 +1,30 @@
+.search_class {
+  width: 300px;
+  height: 40px;
+  align-items: center;
+  margin-left: 90px;
+  border-radius: 20px;
+  padding-left: 20px;
+  font-size: 16px;
+}
+
+.TopNavbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.avator {
+  width: 50px;
+  height: 50px;
+  border-style: groove;
+}
+
+.LoginName {
+  display: flex;
+  align-items: center;
+}
+
+.LoginName h3 {
+  margin: 0 25px;
+  color: #878787;
+}
